@@ -1,3 +1,5 @@
+{/* A simple to-do list mobile application created with React JS and Expo. */}
+
 import React, {useState} from 'react';
 import { Keyboard, KeyboardAvoidingView, StyleSheet, Text, TextInput, TouchableOpacity, View, ScrollView} from 'react-native';
 import Task from './components/Task'
